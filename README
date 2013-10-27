@@ -1,0 +1,7 @@
+Version 7.
+Undo functionality implemented. Now need to work on
+using git better in Eclipse as project
+has started to get a bit messy. Need to look at scoping
+issues and potentially fully re program the whole application
+using what I have learned so far
+
